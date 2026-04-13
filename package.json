@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@discordjs/voice": "^0.18.0",
@@ -14,9 +14,9 @@
     "mercadopago": "^2.4.0",
     "mongoose": "^8.0.3",
     "node-fetch": "^2.7.0",
-    "nodemon": "^3.1.9",
     "pdf-parse": "^1.1.1",
     "qrcode": "^1.5.4",
     "tesseract.js": "^6.0.0"
   }
 }
+
