@@ -1,0 +1,6 @@
+[build]
+builder = "NIXPACKS"
+
+[build.nixpacks]
+aptPkgs = ["libcairo2-dev", "libpango1.0-dev", "libjpeg-dev", "libgif-dev", "librsvg2-dev", "pkg-config", "build-essential"]
+
