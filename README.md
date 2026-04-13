@@ -119,3 +119,4 @@ This bot is provided "as is" without warranty of any kind. Use at your own risk.
 ---
 Made with ❤️ for the Discord community
 # Discord-bot
+# Discord-bot
